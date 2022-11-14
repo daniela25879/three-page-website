@@ -7,5 +7,6 @@ body {
 }
 
 .custom-background {
-    background-image: url('images/grey-gradient.png');
+    background: blue;
+    background-image: url('/images/grey-gradient.png');
 }
